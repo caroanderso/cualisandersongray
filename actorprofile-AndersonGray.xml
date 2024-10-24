@@ -15,6 +15,7 @@
 		<title>Iron Man 2</title>
 		<releaseyear>2010</releaseyear>
 		<role>Iron Man</role>
+	</film>
 	<film>
 		<title>Iron Man</title>
 		<releaseyear>2008</releaseyear>
@@ -29,6 +30,7 @@
 		<title>Sherlock Homes</title>
 		<releaseyear>2009</releaseyear>
 		<role>Sherlock Holmes</role>
+	</film>
 	</films>
 </actor>
 
