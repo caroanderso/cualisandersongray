@@ -8,12 +8,12 @@
 	<films>
 	<film>
 		<title>The Avengers</title>
-		<releaseyear>2012</title>
+		<releaseyear>2012</releaseyear>
 		<role>Iron Man</role>
 	</film>
 	<film>
 		<title>Iron Man 2</title>
-		<releaseyear>2010</title>
+		<releaseyear>2010</releaseyear>
 		<role>Iron Man</title>
 	<film>
 		<title>Iron Man</title>
@@ -39,7 +39,7 @@
 	<films>
 	<film>
 		<title>The Avengers</title>
-		<releaseyear>2012</title>
+		<releaseyear>2012</releaseyear>
 		<role>Hulk</role>
 	</film>
 	</films>
@@ -52,12 +52,12 @@
 	<films>
 	<film>
 		<title>The Avengers</title>
-		<releaseyear>2012</title>
+		<releaseyear>2012</releaseyear>
 		<role>Hawkeye</role>
 	</film>
 <film>
 		<title>Mission Impossible: Ghost Protocol</title>
-		<releaseyear>2011</title>
+		<releaseyear>2011</releaseyear>
 		<role>Brandt</role>
 	</film>
 	</films>
